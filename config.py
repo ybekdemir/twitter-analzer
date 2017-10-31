@@ -1,4 +1,4 @@
-consumer_key = "t7p1jgm12wMO4LpAFuAe5KttB"
-consumer_secret = "C4FoHuCLinZdjcDmtCOUfHgjhfBAoBQPWP5u7mqRwGvfjeVFV5"
+consumer_key = ""
+consumer_secret = ""
 key = ""
 secret = ""
